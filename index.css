@@ -11,6 +11,10 @@ body{
     font-family: helvetica neue sans-serif;
 }
 
+.hl{
+    color: var(--base);
+}
+
 .controls {
     margin: 50px;
 }
